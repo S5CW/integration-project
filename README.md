@@ -1,2 +1,3 @@
 # integration-project
-Project assessing effectiveness of various numerical integration methods 
+Project assessing the effectiveness of various numerical integration methods 
+(Some thought of myself, others common techniques)
